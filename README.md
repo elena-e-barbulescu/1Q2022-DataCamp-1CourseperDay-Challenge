@@ -25,7 +25,7 @@ Documentation for the 1Q2022 challenge of building a daily learning habit by doi
 
 ###### **a small break occurred due to "life" happening, and I talk about this in this [Linked-In post](https://www.linkedin.com/posts/activity-6887068647282634753-QVki).**
 
-11 - 01/17/2022 - Introduction to Data Visualization with Seaborn - **included with the Milestone 1 Annoucement**
+#### 11 - 01/17/2022 - Introduction to Data Visualization with Seaborn - **included with the Milestone 1 Annoucement**
 
 ##### [Milestone 1 Announcement - Introductory Foundations with DataCamp](https://www.linkedin.com/posts/activity-6888885661277990912-ix1T)
 
