@@ -36,3 +36,5 @@ Documentation for the 1Q2022 challenge of building a daily learning habit by doi
 [14 - 01/20/2022 - Intermediate Importing Data in Python](https://www.linkedin.com/posts/activity-6889944282485067776-i8RJ)
 
 [15 - 01/21/2022 - Data Manipulation with Pandas](https://www.linkedin.com/posts/activity-6890338475158114304-YQXZ)
+
+[16 - 01/22/2022 - Data Cleaning with Python](https://www.linkedin.com/posts/activity-6890781204426088448-5LnW)
