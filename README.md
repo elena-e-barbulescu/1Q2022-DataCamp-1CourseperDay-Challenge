@@ -5,9 +5,7 @@ Below you will find a record of all Linked-In annoucements to the completion of 
 
 ## Milestone 1 - 11 Introductory Courses
 
-1 – Introduction to Data Science in Python
-2 – Introduction to Python
-[LinkedIn Post link](https://www.linkedin.com/posts/activity-6883072650298613760-GdCm)
+[1 – Introduction to Data Science in Python & 2 – Introduction to Python](https://www.linkedin.com/posts/activity-6883072650298613760-GdCm)
 
 3 – Winning a Kaggle Competition in Python
 LinkedIn Post link: https://www.linkedin.com/posts/activity-6883543459559424000-MXUY
