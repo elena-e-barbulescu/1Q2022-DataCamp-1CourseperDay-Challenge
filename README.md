@@ -1,9 +1,9 @@
 # 1Q2022-DataCamp-1CourseperDay-Challenge
 Documentation for the 1Q2022 challenge of building a daily learning habit by doing 1 DataCamp course per day, towards the purpose of solidifying the basics and foundations of Python, SQL, and Machine Learning.
 
-Below you will find a record of all Linked-In annoucements to the completion of these courses, and the reflections of each daily learning.
 
 ## Milestone 1 - 11 Introductory Courses
+##### The Linked-In post annoucement to each daily learning and reflection has been provided below.
 
 [1 – Introduction to Data Science in Python & 2 – Introduction to Python](https://www.linkedin.com/posts/activity-6883072650298613760-GdCm)
 
