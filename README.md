@@ -36,7 +36,7 @@ Includes Courses 1 through 11
 
 [15 - 01/21/2022 - Data Manipulation with Pandas](https://www.linkedin.com/posts/activity-6890338475158114304-YQXZ)
 
-## Milestone 2 - 4 Courses - Importing and Cleaning Data with Python
+## Milestone 2 - 4 Courses - Importing and Cleaning Data with Python - Skills Track
 Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, Course 16, and Course 17
 ##### The daily Linked-In post annoucement to each learning and reflection has been provided below 
 
