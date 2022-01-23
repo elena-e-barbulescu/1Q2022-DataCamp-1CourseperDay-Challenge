@@ -48,4 +48,4 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 
 18 - 01/23/2022 - Importing & Cleaning Data with Python SKILLS Track [DataCamp Certificate](https://www.datacamp.com/statement-of-accomplishment/track/b7bed4409034806ae3abb8bbdb13ff33fc1442da)
 
-#### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track]()
+#### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
