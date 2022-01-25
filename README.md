@@ -53,3 +53,5 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 [15 - 01/21/2022 - Data Manipulation with Pandas](https://www.linkedin.com/posts/activity-6890338475158114304-YQXZ)
 
 [19 - 01/24/2022 - Working with Categorical Data in Python](https://www.linkedin.com/posts/activity-6891555028897710080-oVZ5)
+
+[20 - 01/25/2022 - Streamlined Data Ingestion with Pandas](https://www.linkedin.com/posts/activity-6891847609636438016-ogX4)
