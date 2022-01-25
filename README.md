@@ -30,11 +30,7 @@ Includes Courses 1 through 11
 
 #### [Milestone 1 Announcement - Introductory Foundations with DataCamp](https://www.linkedin.com/posts/activity-6888885661277990912-ix1T)
 
-[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
 
-[13 - 01/19/2022 - Intermediate Python](https://www.linkedin.com/posts/activity-6889713586717941760-Ak3c)
-
-[15 - 01/21/2022 - Data Manipulation with Pandas](https://www.linkedin.com/posts/activity-6890338475158114304-YQXZ)
 
 ## Milestone 2 - 4 Courses - Importing and Cleaning Data with Python - Skills Track
 Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, Course 16, and Course 17
@@ -50,4 +46,10 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 
 #### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
 
-19 - 01/24/2022 - [Working with Categorical Data in Python](https://www.linkedin.com/posts/activity-6891555028897710080-oVZ5)
+[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
+
+[13 - 01/19/2022 - Intermediate Python](https://www.linkedin.com/posts/activity-6889713586717941760-Ak3c)
+
+[15 - 01/21/2022 - Data Manipulation with Pandas](https://www.linkedin.com/posts/activity-6890338475158114304-YQXZ)
+
+[19 - 01/24/2022 - Working with Categorical Data in Python](https://www.linkedin.com/posts/activity-6891555028897710080-oVZ5)
