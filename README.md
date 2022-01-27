@@ -57,3 +57,5 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 [20 - 01/25/2022 - Streamlined Data Ingestion with Pandas](https://www.linkedin.com/posts/activity-6891847609636438016-ogX4)
 
 [21 - 01/26/2022 - Analyzing Police Activity with Pandas](https://www.linkedin.com/posts/activity-6892145664663330816-W68S)
+
+[22 - 01/26/2022 - Joining Data with SQL](https://www.linkedin.com/posts/barbulescuelena_sql-github-python-activity-6892257955979300864-7Qd3)
