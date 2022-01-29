@@ -51,7 +51,6 @@ Includes:
   - From **Milestone 1**: Courses 1, 5, 6, 8, 9, 10, 11 [7]
   - From **Milestone 2** Courses 14, 16 [2]
   - Plus Courses 13, 15, 19, 20, 21, 22, 23, 24 [8]
-  - 
 ##### The daily Linked-In post annoucement to each learning and reflection has been provided below.
 
 [13 - 01/19/2022 - Intermediate Python](https://www.linkedin.com/posts/activity-6889713586717941760-Ak3c)
