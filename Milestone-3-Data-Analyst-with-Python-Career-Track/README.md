@@ -2,9 +2,9 @@
 
 Includes:
 
-From Milestone 1: Courses 1, 5, 6, 8, 9, 10, 11 [7]
-From Milestone 2 Courses 14, 16 [2]
-Plus Courses 13, 15, 19, 20, 21, 22, 23, 24 [8]
+- From Milestone 1: Courses 1, 5, 6, 8, 9, 10, 11 [7]
+- From Milestone 2 Courses 14, 16 [2]
+- Plus Courses 13, 15, 19, 20, 21, 22, 23, 24 [8]
 
 Some (not all) of the content related to these courses can be found in the following python repositories:
 
