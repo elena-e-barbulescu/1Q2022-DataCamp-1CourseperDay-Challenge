@@ -61,3 +61,5 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 [22 - 01/26/2022 - Joining Data with SQL](https://www.linkedin.com/posts/barbulescuelena_sql-github-python-activity-6892257955979300864-7Qd3)
 
 [23 - 01/27/2022 - Joining Data with Pandas](https://www.linkedin.com/posts/barbulescuelena_sql-python-github-activity-6892562689034383360-DSS9)
+
+[24 - 01/28/2022 - Exploratory Data Analysis](https://www.linkedin.com/posts/barbulescuelena_dataanalysis-statistics-visualization-activity-6892994349106290688-TP8d)
