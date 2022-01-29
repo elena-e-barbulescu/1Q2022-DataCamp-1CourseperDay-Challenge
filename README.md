@@ -46,7 +46,7 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 #### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
 
 
-## Milestone 3 - 8 Additional Courses
+## Milestone 3 - 8 Additional Courses towards the DATA ANALYST WITH PYTHON CAREER TRACK
 Includes:
   - From **Milestone 1**: Courses 1, 5, 6, 8, 9, 10, 11 [7]
   - From **Milestone 2** Courses 14, 16 [2]
