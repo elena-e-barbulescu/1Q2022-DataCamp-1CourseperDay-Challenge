@@ -31,7 +31,6 @@ Includes Courses 1 through 11
 #### [Milestone 1 Announcement - Introductory Foundations with DataCamp](https://www.linkedin.com/posts/activity-6888885661277990912-ix1T)
 
 
-
 ## Milestone 2 - 4 Courses - Importing and Cleaning Data with Python - Skills Track
 Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, Course 16, and Course 17
 ##### The daily Linked-In post annoucement to each learning and reflection has been provided below 
@@ -46,7 +45,14 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 
 #### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
 
-[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
+
+## Milestone 3 - 8 Additional Courses
+Includes:
+  - From **Milestone 1**: Courses 1, 5, 6, 8, 9, 10, 11 [7]
+  - From **Milestone 2** Courses 14, 16 [2]
+  - Plus Courses 13, 15, 19, 20, 21, 22, 23, 24 [8]
+  - 
+##### The daily Linked-In post annoucement to each learning and reflection has been provided below.
 
 [13 - 01/19/2022 - Intermediate Python](https://www.linkedin.com/posts/activity-6889713586717941760-Ak3c)
 
@@ -63,3 +69,8 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 [23 - 01/27/2022 - Joining Data with Pandas](https://www.linkedin.com/posts/barbulescuelena_sql-python-github-activity-6892562689034383360-DSS9)
 
 [24 - 01/28/2022 - Exploratory Data Analysis](https://www.linkedin.com/posts/barbulescuelena_dataanalysis-statistics-visualization-activity-6892994349106290688-TP8d)
+
+#### [Milestone 3 Announcement - The Data Analyst with Python CAREER Track (Certificate 25)](https://www.linkedin.com/posts/barbulescuelena_github-python-sql-activity-6893223259559538688-Lohd)
+
+
+[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
