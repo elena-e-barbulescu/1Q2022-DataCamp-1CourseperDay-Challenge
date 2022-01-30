@@ -1,4 +1,4 @@
-# Milestone 3 - 17 Courses - Importing and Cleaning Data with Python Skills Track
+# Milestone 3 - 17 Courses - Data Analyst with Python Career Track
 
 Includes:
 
