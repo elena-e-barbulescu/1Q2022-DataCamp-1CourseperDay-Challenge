@@ -46,7 +46,7 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 #### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
 
 
-## Milestone 3 - 8 Additional - The DATA ANALYST WITH PYTHON CAREER TRACK
+## Milestone 3 - 17 Courses - The DATA ANALYST WITH PYTHON CAREER TRACK
 Includes:
   - From **Milestone 1**: Courses 1, 5, 6, 8, 9, 10, 11 [7]
   - From **Milestone 2** Courses 14, 16 [2]
@@ -71,5 +71,9 @@ Includes:
 
 #### [Milestone 3 Announcement - The Data Analyst with Python CAREER Track (Certificate 25)](https://www.linkedin.com/posts/barbulescuelena_github-python-sql-activity-6893223259559538688-Lohd)
 
+## Milestone 4 - 4 Courses - Data Manipulation with Python - Skills Track
+Includes Course 9, 15, 21, 23
+
+#### 01/29/2022 [Milestone 4 Announcement - Data Manipulation with Python SKILLS Track](https://www.linkedin.com/posts/barbulescuelena_datacamp-learning-datascience-activity-6893639911895826432-xoST)
 
 [12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
