@@ -71,5 +71,9 @@ Includes:
 
 #### [Milestone 3 Announcement - The Data Analyst with Python CAREER Track (Certificate 25)](https://www.linkedin.com/posts/barbulescuelena_github-python-sql-activity-6893223259559538688-Lohd)
 
+## Milestone 4 - 4 Courses - Data Manipulation with Python - Skills Track
+Includes Course 9, 15, 21, 23
+
+#### 01/29/2022 [Milestone 4 Announcement - Data Manipulation with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
 
 [12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
