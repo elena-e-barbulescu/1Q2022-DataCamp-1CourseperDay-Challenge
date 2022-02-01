@@ -79,3 +79,5 @@ Includes Course 9, 15, 21, 23
 [12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
 
 [27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
+
+[28 - 01/31/2022 - Unsupervised Learning with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learningeveryday-activity-6894069210541043712-at7q)
