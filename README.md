@@ -74,7 +74,7 @@ Includes:
 ## Milestone 4 - 4 Courses - Data Manipulation with Python - Skills Track
 Includes Course 9, 15, 21, 23
 
-#### 01/29/2022 [Milestone 4 Announcement - Data Manipulation with Python SKILLS Track](https://www.linkedin.com/posts/barbulescuelena_datacamp-learning-datascience-activity-6893639911895826432-xoST)
+#### 01/29/2022 [Milestone 4 Announcement - Data Manipulation with Python SKILLS Track (Certificate 26)](https://www.linkedin.com/posts/barbulescuelena_datacamp-learning-datascience-activity-6893639911895826432-xoST)
 
 [12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
 
