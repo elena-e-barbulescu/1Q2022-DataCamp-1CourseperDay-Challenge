@@ -81,3 +81,5 @@ Includes Course 9, 15, 21, 23
 [27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
 
 [28 - 01/31/2022 - Unsupervised Learning with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learningeveryday-activity-6894069210541043712-at7q)
+
+[29 - 02/01/2022 - Clustering Analysis with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learning-activity-6894339092696363009-sDrZ)
