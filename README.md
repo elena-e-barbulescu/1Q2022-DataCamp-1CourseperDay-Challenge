@@ -83,3 +83,5 @@ Includes Course 9, 15, 21, 23
 [28 - 01/31/2022 - Unsupervised Learning with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learningeveryday-activity-6894069210541043712-at7q)
 
 [29 - 02/01/2022 - Clustering Analysis with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learning-activity-6894339092696363009-sDrZ)
+
+[30 - 02/02/2022 - Dimensionality Reduction in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-machinelearning-dataengineering-activity-6894742877730074624-Awsj)
