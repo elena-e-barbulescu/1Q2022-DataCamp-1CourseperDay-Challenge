@@ -1,7 +1,7 @@
 # 1Q2022-DataCamp-1CourseperDay-Challenge
 Documentation for the 1Q2022 challenge of building a daily learning habit by doing 1 DataCamp course per day, towards the purpose of solidifying the basics and foundations of Python, SQL, and Machine Learning.
 
-
+#
 ## Milestone 1 - 11 Introductory Courses 
 Includes Courses 1 through 11
 ##### The daily Linked-In post annoucement to each learning and reflection has been provided below.
@@ -24,13 +24,19 @@ Includes Courses 1 through 11
 
 [10 – 01/09/2022 - Introduction to Data Visualization with Matplotlib](https://www.linkedin.com/posts/activity-6886110600229908480-wlD2)
 
-###### **a small break occurred due to "life" happening, and I talk about this in this [Linked-In post](https://www.linkedin.com/posts/activity-6887068647282634753-QVki).**
+##### **a small break occurred due to "life" happening, and I talk about this in this [Linked-In post](https://www.linkedin.com/posts/activity-6887068647282634753-QVki).**
 
-###### 11 - 01/17/2022 - Introduction to Data Visualization with Seaborn - **included with the Milestone 1 Annoucement**
+##### 11 - 01/17/2022 - Introduction to Data Visualization with Seaborn - **included with the Milestone 1 Annoucement**
 
-#### [Milestone 1 Announcement - Introductory Foundations with DataCamp](https://www.linkedin.com/posts/activity-6888885661277990912-ix1T)
+### [Milestone 1 Announcement - Introductory Foundations with DataCamp](https://www.linkedin.com/posts/activity-6888885661277990912-ix1T)
 
+>> Some (not all) of the content related to these introductory courses can be found in the following python repositories:
 
+>>> - #### [Introduction-to-Python - REPO](https://github.com/ElenaE873/Introduction-to-Python)
+
+>>> - #### [Introduction-to-Data-Visualization - REPO](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
+
+#
 ## Milestone 2 - 4 Courses - Importing and Cleaning Data with Python - Skills Track
 Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, Course 16, and Course 17
 ##### The daily Linked-In post annoucement to each learning and reflection has been provided below 
@@ -43,9 +49,17 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 
 18 - 01/23/2022 - Importing & Cleaning Data with Python SKILLS Track [DataCamp Certificate](https://www.datacamp.com/statement-of-accomplishment/track/b7bed4409034806ae3abb8bbdb13ff33fc1442da)
 
-#### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
+### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
 
+>> Some (not all) of the content related to these courses can be found in the following python repositories:
 
+>>> - #### [Importing-Data - Folder](https://github.com/ElenaE873/Introduction-to-Python/tree/main/Importing-Data)
+
+>>> - #### [Cleaning-Data-with-Python - REPO](https://github.com/ElenaE873/Cleaning-Data-with-Python)
+
+>>> - #### [Data-Manipulation-with-Python - REPO](https://github.com/ElenaE873/Data-Manipulation-with-Python)
+
+#
 ## Milestone 3 - 17 Courses - The DATA ANALYST WITH PYTHON CAREER TRACK
 Includes:
   - From **Milestone 1**: Courses 1, 5, 6, 8, 9, 10, 11 [7]
@@ -69,15 +83,48 @@ Includes:
 
 [24 - 01/28/2022 - Exploratory Data Analysis](https://www.linkedin.com/posts/barbulescuelena_dataanalysis-statistics-visualization-activity-6892994349106290688-TP8d)
 
-#### [Milestone 3 Announcement - The Data Analyst with Python CAREER Track (Certificate 25)](https://www.linkedin.com/posts/barbulescuelena_github-python-sql-activity-6893223259559538688-Lohd)
+### [Milestone 3 Announcement - The Data Analyst with Python CAREER Track (Certificate 25)](https://www.linkedin.com/posts/barbulescuelena_github-python-sql-activity-6893223259559538688-Lohd)
 
+>> Some (not all) of the content related to these courses can be found in the following python repositories:
+
+>>> - #### [Introduction-to-Python Repo](https://github.com/ElenaE873/Introduction-to-Python)
+
+>>> - #### [Importing-Data Rep](https://github.com/ElenaE873/Importing-Data)
+
+>>> - #### [Cleaning-Data-with-Python Repo](https://github.com/ElenaE873/Cleaning-Data-with-Python)
+
+>>> - #### [Data-Manipulation-with-Python Repo](https://github.com/ElenaE873/Data-Manipulation-with-Python)
+
+>>> - #### [Introduction-to-Data-Visualization Rep](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
+
+>>> - #### [Data-Analysis-Projects Rep](https://github.com/ElenaE873/Data-Analysis-Projects)
+
+>>> - #### [SQL-Fundamentals Repo](https://github.com/ElenaE873/SQL-Fundamentals)
+
+#
 ## Milestone 4 - 4 Courses - Data Manipulation with Python - Skills Track
 Includes Course 9, 15, 21, 23
 
-#### 01/29/2022 [Milestone 4 Announcement - Data Manipulation with Python SKILLS Track (Certificate 26)](https://www.linkedin.com/posts/barbulescuelena_datacamp-learning-datascience-activity-6893639911895826432-xoST)
+### 01/29/2022 [Milestone 4 Announcement - Data Manipulation with Python SKILLS Track (Certificate 26)](https://www.linkedin.com/posts/barbulescuelena_datacamp-learning-datascience-activity-6893639911895826432-xoST)
+
+>> Some (not all) of the content related to these courses can be found in the following python repositories:
+
+>>> - #### [Data-Manipulation-with-Python - REPO](https://github.com/ElenaE873/Data-Manipulation-with-Python)
 
 
+#
+## Milestone 5 - 4 Courses - Python Fundamentals - Skills Track
+Includes Course 2, 13, 31, 32
 
+31 - 02/02/2022 - Python-Data-Science-Toolbox-part1
+
+31 - 02/02/2022 - Python-Data-Science-Toolbox-part2
+
+### 02/02/2022 [Milestone 5 Announcement - Python Fundamentals SKILLS Track (Certificate 32)]()
+
+#
+
+***towards the next milestones***
 
 [12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
 
