@@ -118,9 +118,9 @@ Includes Course 2, 13, 31, 32
 
 31 - 02/02/2022 - Python-Data-Science-Toolbox-part1
 
-31 - 02/02/2022 - Python-Data-Science-Toolbox-part2
+32 - 02/02/2022 - Python-Data-Science-Toolbox-part2
 
-### 02/02/2022 [Milestone 5 Announcement - Python Fundamentals SKILLS Track (Certificate 32)](https://www.linkedin.com/posts/barbulescuelena_datacamp-python-sql-activity-6895097113936486400-la3h)
+### 02/02/2022 [Milestone 5 Announcement - Python Fundamentals SKILLS Track (Certificate 33)](https://www.linkedin.com/posts/barbulescuelena_datacamp-python-sql-activity-6895097113936486400-la3h)
 
 #
 
