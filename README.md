@@ -30,7 +30,7 @@ Includes Courses 1 through 11
 
 ### [Milestone 1 Announcement - Introductory Foundations with DataCamp](https://www.linkedin.com/posts/activity-6888885661277990912-ix1T)
 
->> Some (not all) of the content related to these introductory courses can be found in the following python repositories:
+> Some (not all) of the content related to these introductory courses can be found in the following python repositories:
 
 >>> - #### [Introduction-to-Python - REPO](https://github.com/ElenaE873/Introduction-to-Python)
 
@@ -51,9 +51,9 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 
 ### [Milestone 2 Announcement - Importing & Cleaning Data with Python SKILLS Track](https://www.linkedin.com/posts/activity-6891117804615979008-rXeJ)
 
->> Some (not all) of the content related to these courses can be found in the following python repositories:
+> Some (not all) of the content related to these courses can be found in the following python repositories:
 
->>> - #### [Importing-Data - Folder](https://github.com/ElenaE873/Introduction-to-Python/tree/main/Importing-Data)
+>>> - #### [Importing-Data - REPO](https://github.com/ElenaE873/Importing-Data)
 
 >>> - #### [Cleaning-Data-with-Python - REPO](https://github.com/ElenaE873/Cleaning-Data-with-Python)
 
@@ -85,7 +85,7 @@ Includes:
 
 ### [Milestone 3 Announcement - The Data Analyst with Python CAREER Track (Certificate 25)](https://www.linkedin.com/posts/barbulescuelena_github-python-sql-activity-6893223259559538688-Lohd)
 
->> Some (not all) of the content related to these courses can be found in the following python repositories:
+> Some (not all) of the content related to these courses can be found in the following python repositories:
 
 >>> - #### [Introduction-to-Python Repo](https://github.com/ElenaE873/Introduction-to-Python)
 
@@ -107,7 +107,7 @@ Includes Course 9, 15, 21, 23
 
 ### 01/29/2022 [Milestone 4 Announcement - Data Manipulation with Python SKILLS Track (Certificate 26)](https://www.linkedin.com/posts/barbulescuelena_datacamp-learning-datascience-activity-6893639911895826432-xoST)
 
->> Some (not all) of the content related to these courses can be found in the following python repositories:
+> Some (not all) of the content related to these courses can be found in the following python repositories:
 
 >>> - #### [Data-Manipulation-with-Python - REPO](https://github.com/ElenaE873/Data-Manipulation-with-Python)
 
@@ -120,7 +120,7 @@ Includes Course 2, 13, 31, 32
 
 31 - 02/02/2022 - Python-Data-Science-Toolbox-part2
 
-### 02/02/2022 [Milestone 5 Announcement - Python Fundamentals SKILLS Track (Certificate 32)]()
+### 02/02/2022 [Milestone 5 Announcement - Python Fundamentals SKILLS Track (Certificate 32)](https://www.linkedin.com/posts/barbulescuelena_datacamp-python-sql-activity-6895097113936486400-la3h)
 
 #
 
