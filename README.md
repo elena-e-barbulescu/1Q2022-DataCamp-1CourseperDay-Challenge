@@ -34,8 +34,6 @@ Includes Courses 1 through 11
 
 >>> - #### [Introduction-to-Python - REPO](https://github.com/ElenaE873/Introduction-to-Python)
 
->>> - #### [Introduction-to-Data-Visualization - REPO](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
-
 #
 ## Milestone 2 - 4 Courses - Importing and Cleaning Data with Python - Skills Track
 Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, Course 16, and Course 17
@@ -123,7 +121,20 @@ Includes Course 2, 13, 31, 32
 ### 02/02/2022 [Milestone 5 Announcement - Python Fundamentals SKILLS Track (Certificate 33)](https://www.linkedin.com/posts/barbulescuelena_datacamp-python-sql-activity-6895097113936486400-la3h)
 
 #
+## Milestone 6 - Finishing Data Visualization Courses integrated with this 1Q2022 Goal
+Includes 3 courses:
+- From **Milestone 1**: 
+    - Course 10 - Introduction to Data Visualization with Matplotlib | [Linked-In post](https://www.linkedin.com/posts/barbulescuelena_matplotlib-visualization-seaborn-activity-6886110600229908480-7DO9)
+    - Course 11 - Introduction to Data Visualization with Seaborn | [Linked-In post, with Milestone 1 Annoucement](https://www.linkedin.com/posts/barbulescuelena_datascience-github-30daysoflearning-activity-6888885661277990912-_yJT)
+- Course 35 - Intermediate Data Visualization with Seaborn (with this Milestone 6 Annoucement)
 
+### 02/05/2022 [Milestone 6 Announcement - Completing the Targeted Data Visualization Courses](https://www.linkedin.com/posts/barbulescuelena_datavisualization-datacamp-dataviz-activity-6895827274189324288-qSTC)
+
+>Content for this milestone is in the following repository:
+>
+>>> - #### [Introduction-to-Data-Visualization - REPO](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
+
+#
 ***towards the next milestones***
 
 [12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
