@@ -138,3 +138,5 @@ Includes Course 2, 13, 31, 32
 
 - [Unsupervised-Learning-Concepts (Clustering & Dimensionality Reduction) REPO](https://github.com/ElenaE873/Unsupervised-Learning-Concepts)
 - [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
+
+[34 - 02/04/2022 - Supervised Learning with scikitlearn](https://www.linkedin.com/posts/barbulescuelena_datascience-machinelearning-datacamp-activity-6895390336131178497-6K_5)
