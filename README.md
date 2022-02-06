@@ -58,7 +58,7 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 >>> - #### [Data-Manipulation-with-Python - REPO](https://github.com/ElenaE873/Data-Manipulation-with-Python)
 
 #
-## Milestone 3 - 17 Courses - The DATA ANALYST WITH PYTHON CAREER TRACK
+## Milestone 3 - 17 Courses - The Data Analyst with Python CAREER TRACK
 Includes:
   - From **Milestone 1**: Courses 1, 5, 6, 8, 9, 10, 11 [7]
   - From **Milestone 2** Courses 14, 16 [2]
@@ -135,7 +135,7 @@ Includes 3 courses:
 >>> - #### [Introduction-to-Data-Visualization - REPO](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
 
 #
-## Towards Completion of the Data Scientists CAREER Track
+## Towards Completion of the Data Scientist with Python CAREER Track
 
 [28 - 01/31/2022 - Unsupervised Learning with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learningeveryday-activity-6894069210541043712-at7q)
 
