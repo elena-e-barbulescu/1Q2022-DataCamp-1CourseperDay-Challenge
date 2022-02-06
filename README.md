@@ -58,7 +58,7 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 >>> - #### [Data-Manipulation-with-Python - REPO](https://github.com/ElenaE873/Data-Manipulation-with-Python)
 
 #
-## Milestone 3 - 17 Courses - The DATA ANALYST WITH PYTHON CAREER TRACK
+## Milestone 3 - 17 Courses - The Data Analyst with Python CAREER Track
 Includes:
   - From **Milestone 1**: Courses 1, 5, 6, 8, 9, 10, 11 [7]
   - From **Milestone 2** Courses 14, 16 [2]
@@ -135,11 +135,7 @@ Includes 3 courses:
 >>> - #### [Introduction-to-Data-Visualization - REPO](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
 
 #
-***towards the next milestones***
-
-[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
-
-[27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
+## Towards Completion of the Data Scientist with Python CAREER Track
 
 [28 - 01/31/2022 - Unsupervised Learning with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learningeveryday-activity-6894069210541043712-at7q)
 
@@ -147,7 +143,21 @@ Includes 3 courses:
 
 [30 - 02/02/2022 - Dimensionality Reduction in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-machinelearning-dataengineering-activity-6894742877730074624-Awsj)
 
-- [Unsupervised-Learning-Concepts (Clustering & Dimensionality Reduction) REPO](https://github.com/ElenaE873/Unsupervised-Learning-Concepts)
-- [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
-
 [34 - 02/04/2022 - Supervised Learning with scikitlearn](https://www.linkedin.com/posts/barbulescuelena_datascience-machinelearning-datacamp-activity-6895390336131178497-6K_5)
+
+[35 - 02/05/2022 - Machine Learning with Tree-Based Models in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-datacamp-machinelearning-activity-6895931789039206402-6Xkl)
+
+>Content related (not complete) to this next milestone, is in the following repositories:
+>
+>>> - #### [Supervised-Learning-Concepts REPO](https://github.com/ElenaE873/Supervised-Learning-Concepts)
+>>> - #### [Unsupervised-Learning-Concepts (Clustering & Dimensionality Reduction) REPO](https://github.com/ElenaE873/Unsupervised-Learning-Concepts)
+>>> - #### [Model-Evaluation-Validation-Tuning](https://github.com/ElenaE873/Model-Evaluation-Validation-Tuning)
+>>> - #### [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
+
+
+***towards the next milestones***
+
+[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
+
+[27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
+
