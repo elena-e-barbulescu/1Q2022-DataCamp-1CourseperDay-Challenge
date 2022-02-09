@@ -181,7 +181,7 @@ Plus the follwing **10 Courses**:
 
 - 41 - 02/08/2022 - Case Study: School Budgeting with Machine Learning in Python
 
-### [Milestone 7 Announcement - The Data Analyst with Python CAREER Track (Certificate 41)](https://www.linkedin.com/posts/barbulescuelena_datascience-dataanalyst-datascientist-activity-6897246814987194368-SqWu)
+### [Milestone 7 Announcement - The Data Scientist with Python CAREER Track (Certificate 41)](https://www.linkedin.com/posts/barbulescuelena_datascience-dataanalyst-datascientist-activity-6897246814987194368-SqWu)
 
 >Content related (not complete) to this next milestone, is in the following repositories:
 >
