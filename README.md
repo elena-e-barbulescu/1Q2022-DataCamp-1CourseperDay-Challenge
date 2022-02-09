@@ -162,3 +162,5 @@ Includes 3 courses:
 [27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
 
 [39 - 02/08/2022 - Working with Dates and Times in Python](https://www.linkedin.com/posts/barbulescuelena_learning-datacamp-timeseries-activity-6896927232292397057-v8aY)
+
+[40 - 02/08/2022 - Writing Functions in Python](https://www.linkedin.com/posts/barbulescuelena_pythonprogramming-learning-python-activity-6897022248977256448-_iin)
