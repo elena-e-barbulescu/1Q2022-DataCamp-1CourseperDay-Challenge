@@ -145,7 +145,7 @@ Includes 3 courses:
 
 [34 - 02/04/2022 - Supervised Learning with scikitlearn](https://www.linkedin.com/posts/barbulescuelena_datascience-machinelearning-datacamp-activity-6895390336131178497-6K_5)
 
-[35 - 02/05/2022 - Machine Learning with Tree-Based Models in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-datacamp-machinelearning-activity-6895931789039206402-6Xkl)
+[36 - 02/05/2022 - Machine Learning with Tree-Based Models in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-datacamp-machinelearning-activity-6895931789039206402-6Xkl)
 
 [39 - 02/08/2022 - Working with Dates and Times in Python](https://www.linkedin.com/posts/barbulescuelena_learning-datacamp-timeseries-activity-6896927232292397057-v8aY)
 
