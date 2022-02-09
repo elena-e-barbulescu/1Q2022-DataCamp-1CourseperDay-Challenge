@@ -147,6 +147,10 @@ Includes 3 courses:
 
 [35 - 02/05/2022 - Machine Learning with Tree-Based Models in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-datacamp-machinelearning-activity-6895931789039206402-6Xkl)
 
+[39 - 02/08/2022 - Working with Dates and Times in Python](https://www.linkedin.com/posts/barbulescuelena_learning-datacamp-timeseries-activity-6896927232292397057-v8aY)
+
+[40 - 02/08/2022 - Writing Functions in Python](https://www.linkedin.com/posts/barbulescuelena_pythonprogramming-learning-python-activity-6897022248977256448-_iin)
+
 >Content related (not complete) to this next milestone, is in the following repositories:
 >
 >>> - #### [Supervised-Learning-Concepts REPO](https://github.com/ElenaE873/Supervised-Learning-Concepts)
@@ -160,7 +164,3 @@ Includes 3 courses:
 [12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
 
 [27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
-
-[39 - 02/08/2022 - Working with Dates and Times in Python](https://www.linkedin.com/posts/barbulescuelena_learning-datacamp-timeseries-activity-6896927232292397057-v8aY)
-
-[40 - 02/08/2022 - Writing Functions in Python](https://www.linkedin.com/posts/barbulescuelena_pythonprogramming-learning-python-activity-6897022248977256448-_iin)
