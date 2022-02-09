@@ -187,7 +187,7 @@ Plus the follwing **10 Courses**:
 >
 >>> - #### [Supervised-Learning-Concepts REPO](https://github.com/ElenaE873/Supervised-Learning-Concepts)
 >>> - #### [Unsupervised-Learning-Concepts (Clustering & Dimensionality Reduction) REPO](https://github.com/ElenaE873/Unsupervised-Learning-Concepts)
->>> - #### [Model-Evaluation-Validation-Tuning](https://github.com/ElenaE873/Model-Evaluation-Validation-Tuning)
+>>> - #### [Model-Evaluation-Validation-Tuning REPO](https://github.com/ElenaE873/Model-Evaluation-Validation-Tuning)
 >>> - #### [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
 
 
