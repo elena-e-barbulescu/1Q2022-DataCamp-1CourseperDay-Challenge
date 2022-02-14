@@ -121,7 +121,7 @@ Includes Course 2, 13, 31, 32
 ### 02/02/2022 [Milestone 5 Announcement - Python Fundamentals SKILLS Track (Certificate 33)](https://www.linkedin.com/posts/barbulescuelena_datacamp-python-sql-activity-6895097113936486400-la3h)
 
 #
-## Milestone 6 - Finishing Data Visualization Courses integrated with this 1Q2022 Goal
+## Milestone 6 - 3 Courses - Finishing Data Visualization Courses integrated with this 1Q2022 Goal
 Includes 3 courses:
 - From **Milestone 1**: 
     - Course 10 - Introduction to Data Visualization with Matplotlib | [Linked-In post](https://www.linkedin.com/posts/barbulescuelena_matplotlib-visualization-seaborn-activity-6886110600229908480-7DO9)
@@ -134,28 +134,60 @@ Includes 3 courses:
 >
 >>> - #### [Introduction-to-Data-Visualization - REPO](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
 
-#
-## Towards Completion of the Data Scientist with Python CAREER Track
+### Milestone 7 - 24 Courses - The Data Scientist with Python CAREER Track
+Includes:
+- From **Milestone 1**: (4 Courses)
+  - Introduction to Python
+  - Introduction to Importing Data in Python
+  - Introduction to Data Visualization with Matplotlib
+  - Introduction to Data Visualization with Seaborn
+  
+- From **Milestone 2**: (2 Courses)
+  - Intermediate Importing Data in Python
+  - Cleaning Data in Python
+ 
+- From **Milestone 3**: (5 Courses)
+  - Intermediate Python
+  - Data Manipulation with Pandas
+  - Joining Data with Pandas
+  - Exploratory Data Analysis in Python
+  - Analyzing Activity with Pandas
+ 
+- From **Milestone 5**: (2 Courses)
+  - Python Data Science Toolbox part 1
+  - Python Data Science TOolbox part 2
 
-[28 - 01/31/2022 - Unsupervised Learning with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learningeveryday-activity-6894069210541043712-at7q)
+- From **Milestone 6**: (1 Course)
+  - Intermediate Data Visualization with Seaborn
 
-[29 - 02/01/2022 - Clustering Analysis with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learning-activity-6894339092696363009-sDrZ)
+Plus the follwing **10 Courses**:
+- [28 - 01/31/2022 - Unsupervised Learning with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learningeveryday-activity-6894069210541043712-at7q)
 
-[30 - 02/02/2022 - Dimensionality Reduction in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-machinelearning-dataengineering-activity-6894742877730074624-Awsj)
+- [29 - 02/01/2022 - Cluster Analysis with Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-machinelearning-learning-activity-6894339092696363009-sDrZ)
 
-[34 - 02/04/2022 - Supervised Learning with scikitlearn](https://www.linkedin.com/posts/barbulescuelena_datascience-machinelearning-datacamp-activity-6895390336131178497-6K_5)
+- [30 - 02/02/2022 - Dimensionality Reduction in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-machinelearning-dataengineering-activity-6894742877730074624-Awsj)
 
-[36 - 02/05/2022 - Machine Learning with Tree-Based Models in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-datacamp-machinelearning-activity-6895931789039206402-6Xkl)
+- [34 - 02/04/2022 - Supervised Learning with scikitlearn](https://www.linkedin.com/posts/barbulescuelena_datascience-machinelearning-datacamp-activity-6895390336131178497-6K_5)
 
-[39 - 02/08/2022 - Working with Dates and Times in Python](https://www.linkedin.com/posts/barbulescuelena_learning-datacamp-timeseries-activity-6896927232292397057-v8aY)
+- [36 - 02/05/2022 - Machine Learning with Tree-Based Models in Python](https://www.linkedin.com/posts/barbulescuelena_datascientist-datacamp-machinelearning-activity-6895931789039206402-6Xkl)
 
-[40 - 02/08/2022 - Writing Functions in Python](https://www.linkedin.com/posts/barbulescuelena_pythonprogramming-learning-python-activity-6897022248977256448-_iin)
+- 37 - 02/06/2022 - Statistical Thinking in Python part 1
+
+- 38 - 02/06/2022 - Statistical Thinking in Python part 2
+
+- [39 - 02/08/2022 - Working with Dates and Times in Python](https://www.linkedin.com/posts/barbulescuelena_learning-datacamp-timeseries-activity-6896927232292397057-v8aY)
+
+- [40 - 02/08/2022 - Writing Functions in Python](https://www.linkedin.com/posts/barbulescuelena_pythonprogramming-learning-python-activity-6897022248977256448-_iin)
+
+- 41 - 02/08/2022 - Case Study: School Budgeting with Machine Learning in Python
+
+### [Milestone 7 Announcement - The Data Scientist with Python CAREER Track (Certificate 41)](https://www.linkedin.com/posts/barbulescuelena_datascience-dataanalyst-datascientist-activity-6897246814987194368-SqWu)
 
 >Content related (not complete) to this next milestone, is in the following repositories:
 >
 >>> - #### [Supervised-Learning-Concepts REPO](https://github.com/ElenaE873/Supervised-Learning-Concepts)
 >>> - #### [Unsupervised-Learning-Concepts (Clustering & Dimensionality Reduction) REPO](https://github.com/ElenaE873/Unsupervised-Learning-Concepts)
->>> - #### [Model-Evaluation-Validation-Tuning](https://github.com/ElenaE873/Model-Evaluation-Validation-Tuning)
+>>> - #### [Model-Evaluation-Validation-Tuning REPO](https://github.com/ElenaE873/Model-Evaluation-Validation-Tuning)
 >>> - #### [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
 
 
