@@ -196,3 +196,5 @@ Plus the follwing **10 Courses**:
 [12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
 
 [27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
+
+[43 - 02/14/2022 - Extreme Gradient Boosting with XGBoost](https://www.linkedin.com/posts/barbulescuelena_xgboost-modeling-classification-activity-6899088832042471425-5zm0)
