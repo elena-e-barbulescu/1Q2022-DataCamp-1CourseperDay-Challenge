@@ -202,3 +202,5 @@ Plus the follwing **10 Courses**:
 [44 - 02/14/2022 - Machine Learning for Time Series Data in Python](https://www.linkedin.com/posts/barbulescuelena_machinelearning-learning-featureengineering-activity-6899172329885110272-zeo0)
 
 [45 - PreProcessing for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-pythonprogramming-datascience-activity-6899509208773914624-bNuJ)
+
+[46 - Feature Engineering for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_python-datacamp-github-activity-6899543669586608128-mVyH)
