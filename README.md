@@ -200,3 +200,5 @@ Plus the follwing **10 Courses**:
 [43 - 02/14/2022 - Extreme Gradient Boosting with XGBoost](https://www.linkedin.com/posts/barbulescuelena_xgboost-modeling-classification-activity-6899088832042471425-5zm0)
 
 [44 - 02/14/2022 - Machine Learning for Time Series Data in Python](https://www.linkedin.com/posts/barbulescuelena_machinelearning-learning-featureengineering-activity-6899172329885110272-zeo0)
+
+[45 - PreProcessing for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-pythonprogramming-datascience-activity-6899509208773914624-bNuJ)
