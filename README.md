@@ -1,5 +1,5 @@
 # 1Q2022-DataCamp-1CourseperDay-Challenge
-Documentation for the 1Q2022 challenge of building a daily learning habit by doing 1 DataCamp course per day, towards the purpose of solidifying the basics and foundations of Python, SQL, and Machine Learning.
+Documentation for the 1Q2022 challenge of building a daily learning habit by doing 1 DataCamp courser per day, towards the purpose of solidifying the basics and foundations of python programming, data science,  machine learning. and data engineering.
 
 #
 ## Milestone 1 - 11 Introductory Courses 
@@ -201,9 +201,9 @@ Plus the follwing **10 Courses**:
 
 [44 - 02/14/2022 - Machine Learning for Time Series Data in Python](https://www.linkedin.com/posts/barbulescuelena_machinelearning-learning-featureengineering-activity-6899172329885110272-zeo0)
 
-[45 - 2/15/2022 - PreProcessing for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-pythonprogramming-datascience-activity-6899509208773914624-bNuJ)
+[45 - 02/15/2022 - PreProcessing for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-pythonprogramming-datascience-activity-6899509208773914624-bNuJ)
 
-[46 - 2/15/2022 - Feature Engineering for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_python-datacamp-github-activity-6899543669586608128-mVyH)
+[46 - 02/15/2022 - Feature Engineering for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_python-datacamp-github-activity-6899543669586608128-mVyH)
 
 [47 - 2/16/2022 - Hyperparameter Tuning in Python](https://www.linkedin.com/posts/barbulescuelena_learning-learningeveryday-datasciencetraining-activity-6899859421078335489-zxZh)
 
