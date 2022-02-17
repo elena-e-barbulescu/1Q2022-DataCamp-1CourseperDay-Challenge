@@ -191,11 +191,7 @@ Plus the follwing **10 Courses**:
 >>> - #### [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
 
 
-***towards the next milestones***
-
-[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
-
-[27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
+### [Milestone 8 Announcement - The Targetted Machine Learning Courses)](https://www.linkedin.com/posts/barbulescuelena_datascience-dataanalyst-datascientist-activity-6897246814987194368-SqWu)
 
 [43 - 02/14/2022 - Extreme Gradient Boosting with XGBoost](https://www.linkedin.com/posts/barbulescuelena_xgboost-modeling-classification-activity-6899088832042471425-5zm0)
 
@@ -208,3 +204,14 @@ Plus the follwing **10 Courses**:
 [47 - 2/16/2022 - Hyperparameter Tuning in Python](https://www.linkedin.com/posts/barbulescuelena_learning-learningeveryday-datasciencetraining-activity-6899859421078335489-zxZh)
 
 [48 - 02/16/2022 - Model Validation in Python](https://www.linkedin.com/posts/barbulescuelena_machinelearning-datacamp-classification-activity-6899920808685178880-ivn4)
+
+>Content related (not complete) to this next milestone, is in the following repositories:
+>
+>>> - #### [Pre-Processing for Modeling REPO](https://github.com/ElenaE873/Pre-Processing-for-Modeling)
+>>> + plust additions to Feature Engineering REPO and the Model-Evaluation-Validation-Tuning REPO (both listed above).
+
+***towards the next milestones***
+
+[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
+
+[27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
