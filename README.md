@@ -133,7 +133,7 @@ Includes 3 courses:
 >Content for this milestone is in the following repository:
 >
 >>> - #### [Introduction-to-Data-Visualization - REPO](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
-
+#
 ### Milestone 7 - 24 Courses - The Data Scientist with Python CAREER Track
 Includes:
 - From **Milestone 1**: (4 Courses)
@@ -190,7 +190,7 @@ Plus the follwing **10 Courses**:
 >>> - #### [Model-Evaluation-Validation-Tuning REPO](https://github.com/ElenaE873/Model-Evaluation-Validation-Tuning)
 >>> - #### [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
 
-
+#
 ### 02/17/2022 - [Milestone 8 Announcement - The Targetted Machine Learning Courses)](https://www.linkedin.com/posts/barbulescuelena_upskilling-python-sql-activity-6900189921936519169-ezPV)
 
 [43 - 02/14/2022 - Extreme Gradient Boosting with XGBoost](https://www.linkedin.com/posts/barbulescuelena_xgboost-modeling-classification-activity-6899088832042471425-5zm0)
