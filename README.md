@@ -191,7 +191,7 @@ Plus the follwing **10 Courses**:
 >>> - #### [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
 
 
-### [Milestone 8 Announcement - The Targetted Machine Learning Courses)](https://www.linkedin.com/posts/barbulescuelena_datascience-dataanalyst-datascientist-activity-6897246814987194368-SqWu)
+### 02/17/2022 - [Milestone 8 Announcement - The Targetted Machine Learning Courses)](https://www.linkedin.com/posts/barbulescuelena_upskilling-python-sql-activity-6900189921936519169-ezPV)
 
 [43 - 02/14/2022 - Extreme Gradient Boosting with XGBoost](https://www.linkedin.com/posts/barbulescuelena_xgboost-modeling-classification-activity-6899088832042471425-5zm0)
 
