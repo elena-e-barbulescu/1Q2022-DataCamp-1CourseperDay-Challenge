@@ -204,3 +204,5 @@ Plus the follwing **10 Courses**:
 [45 - 2/15/2022 - PreProcessing for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-pythonprogramming-datascience-activity-6899509208773914624-bNuJ)
 
 [46 - 2/15/2022 - Feature Engineering for Machine Learning in Python](https://www.linkedin.com/posts/barbulescuelena_python-datacamp-github-activity-6899543669586608128-mVyH)
+
+[47 - 2/16/2022 - Hyperparameter Tuning in Python](https://www.linkedin.com/posts/barbulescuelena_learning-learningeveryday-datasciencetraining-activity-6899859421078335489-zxZh)
