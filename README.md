@@ -93,9 +93,9 @@ Includes:
 
 >>> - #### [Data-Manipulation-with-Python Repo](https://github.com/ElenaE873/Data-Manipulation-with-Python)
 
->>> - #### [Introduction-to-Data-Visualization Rep](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
+>>> - #### [Introduction-to-Data-Visualization Repo](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
 
->>> - #### [Data-Analysis-Projects Rep](https://github.com/ElenaE873/Data-Analysis-Projects)
+>>> - #### [Data-Analysis-Projects Repo](https://github.com/ElenaE873/Data-Analysis-Projects)
 
 >>> - #### [SQL-Fundamentals Repo](https://github.com/ElenaE873/SQL-Fundamentals)
 
