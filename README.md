@@ -228,7 +228,7 @@ Includes Courses:
 
  49 - 02/18/2022 - Introduction to Deep Learning in Python
   
-### 02/18/2022 - [Milestone 8 Announcement - Machine Learning Fundamentals with Python SKILLS Track (Certificate 50)]()
+### 02/18/2022 - [Milestone 9 Announcement - Machine Learning Fundamentals with Python SKILLS Track (Certificate 50)](https://www.linkedin.com/posts/barbulescuelena_machinelearning-datacamp-deeplearning-activity-6900568951344939008-ucG_)
 
 ***towards the next milestones***
 
