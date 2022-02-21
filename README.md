@@ -208,3 +208,5 @@ Plus the follwing **10 Courses**:
 [47 - 2/16/2022 - Hyperparameter Tuning in Python](https://www.linkedin.com/posts/barbulescuelena_learning-learningeveryday-datasciencetraining-activity-6899859421078335489-zxZh)
 
 [48 - 02/16/2022 - Model Validation in Python](https://www.linkedin.com/posts/barbulescuelena_machinelearning-datacamp-classification-activity-6899920808685178880-ivn4)
+
+[51 - 02/21/2022 - Introduction-to-Tensorflow-in-Python](https://www.linkedin.com/posts/barbulescuelena_impostersyndrome-commitment-learning-activity-6901673735871356928-Lxxk)
