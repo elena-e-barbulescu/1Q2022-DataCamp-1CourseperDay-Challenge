@@ -59,7 +59,7 @@ Includes Course 8 (above: Introduction to Importing Data in Python), Course 14, 
 
 #
 ## Milestone 3 - 17 Courses - The Data Analyst with Python CAREER Track
-Includes:
+Includes Courses:
   - From **Milestone 1**: Courses 1, 5, 6, 8, 9, 10, 11 [7]
   - From **Milestone 2** Courses 14, 16 [2]
   - Plus Courses 13, 15, 19, 20, 21, 22, 23, 24 [8]
@@ -93,9 +93,9 @@ Includes:
 
 >>> - #### [Data-Manipulation-with-Python Repo](https://github.com/ElenaE873/Data-Manipulation-with-Python)
 
->>> - #### [Introduction-to-Data-Visualization Rep](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
+>>> - #### [Introduction-to-Data-Visualization Repo](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
 
->>> - #### [Data-Analysis-Projects Rep](https://github.com/ElenaE873/Data-Analysis-Projects)
+>>> - #### [Data-Analysis-Projects Repo](https://github.com/ElenaE873/Data-Analysis-Projects)
 
 >>> - #### [SQL-Fundamentals Repo](https://github.com/ElenaE873/SQL-Fundamentals)
 
@@ -133,8 +133,8 @@ Includes 3 courses:
 >Content for this milestone is in the following repository:
 >
 >>> - #### [Introduction-to-Data-Visualization - REPO](https://github.com/ElenaE873/Introduction-to-Data-Visualization)
-
-### Milestone 7 - 24 Courses - The Data Scientist with Python CAREER Track
+#
+## Milestone 7 - 24 Courses - The Data Scientist with Python CAREER Track
 Includes:
 - From **Milestone 1**: (4 Courses)
   - Introduction to Python
@@ -190,12 +190,11 @@ Plus the follwing **10 Courses**:
 >>> - #### [Model-Evaluation-Validation-Tuning REPO](https://github.com/ElenaE873/Model-Evaluation-Validation-Tuning)
 >>> - #### [Feature-Enginering REPO](https://github.com/ElenaE873/Feature-Engineering)
 
+#
+## Milestone 8 - 7 Courses - Targetted Machine Learning Courses (in the ML Scientist Career Track)
+### 02/17/2022 - [Milestone 8 Announcement - The Targetted Machine Learning Courses)](https://www.linkedin.com/posts/barbulescuelena_upskilling-python-sql-activity-6900189921936519169-ezPV)
 
-***towards the next milestones***
-
-[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
-
-[27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
+[42 - 02/11/2022 - Linear Classifiers in Python](https://www.linkedin.com/posts/barbulescuelena_datacamp-linearclassifiers-python-activity-6898047462250999808-815R)
 
 [43 - 02/14/2022 - Extreme Gradient Boosting with XGBoost](https://www.linkedin.com/posts/barbulescuelena_xgboost-modeling-classification-activity-6899088832042471425-5zm0)
 
@@ -208,5 +207,33 @@ Plus the follwing **10 Courses**:
 [47 - 2/16/2022 - Hyperparameter Tuning in Python](https://www.linkedin.com/posts/barbulescuelena_learning-learningeveryday-datasciencetraining-activity-6899859421078335489-zxZh)
 
 [48 - 02/16/2022 - Model Validation in Python](https://www.linkedin.com/posts/barbulescuelena_machinelearning-datacamp-classification-activity-6899920808685178880-ivn4)
+
+>Content related (not complete) to this next milestone, is in the following repositories:
+>
+>>> - #### [Pre-Processing for Modeling REPO](https://github.com/ElenaE873/Pre-Processing-for-Modeling)
+>>> + plust additions to Feature Engineering REPO and the Model-Evaluation-Validation-Tuning REPO (both listed above).
+
+#
+## Milestone 9 - 5 Courses - Machine Learning Fundamentals with Python - Skills Track
+##### The daily Linked-In post annoucement to each learning and reflection has been provided below 
+
+Includes Courses:
+  - From **Milestone 7** 
+      - Course 28: *Unsupervised Learning in Python*
+      - Course 34: *Supervised Learning with Scikit-Learn*
+      - Course 41: *Case Study: School Budgeting with ML in Python*
+  - From **Milestone 8**
+      - Course 42: *Linear Classifiers in Python*
+ and ...
+
+ 49 - 02/18/2022 - Introduction to Deep Learning in Python
+  
+### 02/18/2022 - [Milestone 9 Announcement - Machine Learning Fundamentals with Python SKILLS Track (Certificate 50)](https://www.linkedin.com/posts/barbulescuelena_machinelearning-datacamp-deeplearning-activity-6900568951344939008-ucG_)
+
+***towards the next milestones***
+
+[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
+
+[27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
 
 [51 - 02/21/2022 - Introduction-to-Tensorflow-in-Python](https://www.linkedin.com/posts/barbulescuelena_impostersyndrome-commitment-learning-activity-6901673735871356928-Lxxk)
