@@ -237,3 +237,5 @@ Includes Courses:
 [27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
 
 [51 - 02/21/2022 - Introduction-to-Tensorflow-in-Python](https://www.linkedin.com/posts/barbulescuelena_impostersyndrome-commitment-learning-activity-6901673735871356928-Lxxk)
+
+[52 - 02/22/2022 - Introduction-to-Deep-Learning-with-Keras](https://www.linkedin.com/posts/barbulescuelena_deeplearning-github-learning-activity-6901984542207414273-jl1l)
