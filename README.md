@@ -239,3 +239,5 @@ Includes Courses:
 [51 - 02/21/2022 - Introduction-to-Tensorflow-in-Python](https://www.linkedin.com/posts/barbulescuelena_impostersyndrome-commitment-learning-activity-6901673735871356928-Lxxk)
 
 [52 - 02/22/2022 - Introduction-to-Deep-Learning-with-Keras](https://www.linkedin.com/posts/barbulescuelena_deeplearning-github-learning-activity-6901984542207414273-jl1l)
+
+[53 - 02/22/2022 - Advanced-Learning-with-Keras](https://www.linkedin.com/posts/barbulescuelena_deeplearning-datacamp-github-activity-6902064848906059776-HPNr)
