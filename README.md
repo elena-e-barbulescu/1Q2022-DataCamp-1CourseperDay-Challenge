@@ -241,3 +241,15 @@ Includes Courses:
 [52 - 02/22/2022 - Introduction-to-Deep-Learning-with-Keras](https://www.linkedin.com/posts/barbulescuelena_deeplearning-github-learning-activity-6901984542207414273-jl1l)
 
 [53 - 02/22/2022 - Advanced-Learning-with-Keras](https://www.linkedin.com/posts/barbulescuelena_deeplearning-datacamp-github-activity-6902064848906059776-HPNr)
+
+**at this point a break was undertaken, especially with the world events occurring.  still, i did continue doing work in the 'background' and wrote one post in collection of this in-between time.**
+
+[54 - 02/24/2022 - Introduction to Natural Language Processing](https://www.linkedin.com/posts/barbulescuelena_nlp-naturallanguageprocessing-learningeveryday-activity-6902820900127805440-J8pC)
+
+55 - Feature Engineering for NLP in Python
+
+56 - Introduction to PySpark
+
+57 - Machine Learning with PySpark
+
+[54-57 - 02/28/2022 - Courses Post Catch-Up](https://www.linkedin.com/posts/barbulescuelena_nlp-pyspark-progression-activity-6904161940789096448-77ab)
