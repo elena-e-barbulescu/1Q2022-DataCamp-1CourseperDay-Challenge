@@ -253,3 +253,5 @@ Includes Courses:
 57 - Machine Learning with PySpark
 
 [54-57 - 02/28/2022 - Courses Post Catch-Up](https://www.linkedin.com/posts/barbulescuelena_nlp-pyspark-progression-activity-6904161940789096448-77ab)
+
+[58 - 03/07/2022 - Image Processing in Python](https://www.linkedin.com/posts/barbulescuelena_imageprocessing-computervision-imaging-activity-6906795625669648384-ueCe)
