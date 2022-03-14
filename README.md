@@ -230,11 +230,10 @@ Includes Courses:
   
 ### 02/18/2022 - [Milestone 9 Announcement - Machine Learning Fundamentals with Python SKILLS Track (Certificate 50)](https://www.linkedin.com/posts/barbulescuelena_machinelearning-datacamp-deeplearning-activity-6900568951344939008-ucG_)
 
-***towards the next milestones***
-
-[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
-
-[27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
+#
+## Milestone 10 - 11 Introductory Courses 
+Includes Courses 
+##### The daily Linked-In post annoucement to each learning and reflection has been provided below.
 
 [51 - 02/21/2022 - Introduction-to-Tensorflow-in-Python](https://www.linkedin.com/posts/barbulescuelena_impostersyndrome-commitment-learning-activity-6901673735871356928-Lxxk)
 
@@ -253,3 +252,13 @@ Includes Courses:
 57 - Machine Learning with PySpark
 
 [54-57 - 02/28/2022 - Courses Post Catch-Up](https://www.linkedin.com/posts/barbulescuelena_nlp-pyspark-progression-activity-6904161940789096448-77ab)
+
+[58 - 03/07/2022 - Image Processing in Python](https://www.linkedin.com/posts/barbulescuelena_imageprocessing-computervision-imaging-activity-6906795625669648384-ueCe)
+
+
+***towards the next milestones***
+
+[12 - 01/18/2022 - Object-Oriented Programming in Python](https://www.linkedin.com/posts/activity-6889256424946450432-hC_i)
+
+[27 - 01/30/2022 - Introduction to Airflow in Python | part of the Data Engineering ZoomCamp Learning](https://github.com/ElenaE873/Data-Engineering-ZoomCamp-2022/blob/main/Week_2_Airflow.md)
+
