@@ -231,8 +231,8 @@ Includes Courses:
 ### 02/18/2022 - [Milestone 9 Announcement - Machine Learning Fundamentals with Python SKILLS Track (Certificate 50)](https://www.linkedin.com/posts/barbulescuelena_machinelearning-datacamp-deeplearning-activity-6900568951344939008-ucG_)
 
 #
-## Milestone 10 - 11 Introductory Courses 
-Includes Courses 
+## Milestone 10 - 10 Add'l Courses 
+Includes Certificates 51-60
 ##### The daily Linked-In post annoucement to each learning and reflection has been provided below.
 
 [51 - 02/21/2022 - Introduction-to-Tensorflow-in-Python](https://www.linkedin.com/posts/barbulescuelena_impostersyndrome-commitment-learning-activity-6901673735871356928-Lxxk)
@@ -254,6 +254,13 @@ Includes Courses
 [54-57 - 02/28/2022 - Courses Post Catch-Up](https://www.linkedin.com/posts/barbulescuelena_nlp-pyspark-progression-activity-6904161940789096448-77ab)
 
 [58 - 03/07/2022 - Image Processing in Python](https://www.linkedin.com/posts/barbulescuelena_imageprocessing-computervision-imaging-activity-6906795625669648384-ueCe)
+
+59  - 03/14/2022 - Image Processing with Keras in Python
+
+60 - 03/24/2022 - Machine Learning Scientist with Python Career Track Certificate
+
+03/24/2022 - Milestone 10 Annoucement - The Machine Learning Scientist with Python CAREER TRACK (Certificate 60) 
+++ also the marking point annoucement for the 10 week mark completion of the Data Analyst, Data Scientist, and Machine Learning Career Tracks in Python from DataCamp.
 
 
 ***towards the next milestones***
