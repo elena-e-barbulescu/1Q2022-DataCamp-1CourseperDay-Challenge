@@ -259,8 +259,8 @@ Includes Certificates 51-60
 
 60 - 03/24/2022 - Machine Learning Scientist with Python Career Track Certificate
 
-03/24/2022 - Milestone 10 Annoucement - The Machine Learning Scientist with Python CAREER TRACK (Certificate 60) 
-++ also the marking point annoucement for the 10 week mark completion of the Data Analyst, Data Scientist, and Machine Learning Career Tracks in Python from DataCamp.
+[03/24/2022 - Milestone 10 Annoucement - The Machine Learning Scientist with Python CAREER TRACK (Certificate 60)](https://www.linkedin.com/posts/barbulescuelena_career-datascience-machinelearning-activity-6909287752563867649-lS9k) 
+++ also the marking point annoucement for the 10 week mark completion of the Data Analyst, Data Scientist, and Machine Learning Career Tracks in Python from DataCamp AND the annoucement for the launch of the new WID Study Group Modules for 2022!
 
 
 ***towards the next milestones***
